@@ -790,8 +790,7 @@ a {
 
     color: #FFFFFF;
 }
-.cards__name_r {
-}
+
 .cards__subtitle {
     font-size: 20px;
     line-height: 26px;
@@ -801,10 +800,7 @@ a {
 
     color: #FFFFFF;
 }
-.cards__info {
-}
-.cards__btn {
-}
+
 .cards__button {
     font-weight: 600;
     font-size: 18px;
@@ -812,8 +808,7 @@ a {
 
     padding: 16px 30px;
 }
-.button_green {
-}
+
 .cards__img {
     position: absolute;
     top: 0;
@@ -847,8 +842,7 @@ a {
     font-size: 48px;
     line-height: 119.9%;
 }
-.buy__green {
-}
+
 .buy__swipe {
     display: flex;
     justify-content: space-between;
@@ -864,9 +858,7 @@ a {
 .buy__logo {
     margin-right: 62px;
 }
-.buy__btn {
-    
-}
+
 .buy__button {
     display: flex;
     justify-content: space-between;
@@ -944,12 +936,6 @@ a {
     margin-right: 12px;
 }
 
-.footer__icon {
-
-}
-
-.footer__social {
-}
 .footer__soc_name {
     font-weight: 600;
     font-size: 20px;
@@ -957,8 +943,7 @@ a {
 
     color: #F8F8F8;
 }
-.footer__end {
-}
+
 .footer__cont {
     font-weight: 600;
     font-size: 18px;
