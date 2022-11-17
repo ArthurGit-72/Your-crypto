@@ -103,7 +103,7 @@ a {
 
 
 .header {
-    background-image: url(/img/bgrnd.jpg);
+    background-image: url("../img/bgrnd.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top right;
@@ -307,7 +307,7 @@ a {
 }
 
 .header__video::after {
-    content: url("/img/d1/flower.png");
+    content: url("../img/d1/flower.png");
     width: 342px;
     height: 260px;
     position: absolute;
